@@ -1,0 +1,88 @@
+.mogitate__content {
+    margin: 0 auto;
+    padding: 30px 15px;
+    max-width: 1230px;
+    text-align: justify;
+    background-color: #F0F0F0;
+}
+
+.mogitate__heading {
+    margin: 0;
+    margin-bottom: 40px;
+    text-align: left;
+}
+
+.form {
+    margin: 0;
+    width: 70%;
+    text-align: left;
+}
+
+.form__group-title {
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+.form__label--required {
+    margin-left: 5px;
+    padding: 4px 6px;
+    border-radius: 3px;
+    background: #ff0000;
+    color: #fff;
+}
+
+.form__error {
+    height: 20px;
+    color: #ff0000;
+    text-align: left;
+}
+
+.form__input--text input,
+.form__input--textarea textarea {
+    padding: 10px;
+    width: 600px;
+    border: 1px solid #fff;
+    border-radius: 3px;
+    appearance: none;
+}
+
+.form__input--text input {
+    height: 40px;
+}
+
+.form__label--text2 {
+    color: #ff0000;
+}
+
+.form__input--textarea textarea {
+    height: 180px;
+}
+
+.form__button {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.form__button-submit {
+    padding: 10px;
+    width: 100%;
+    height: 50px;
+    border: none;
+    padding: 0 100px 0 100px;
+    border-radius: 3px;
+    background: #aaa;
+    color: #fff;
+    cursor: pointer;
+}
+
+.form__button-submit2 {
+    padding: 10px;
+    width: 100%;
+    height: 50px;
+    padding: 0 100px 0 100px;
+    border: none;
+    border-radius: 3px;
+    background: #FFC800;
+    color: #000;
+    cursor: pointer;
+}
